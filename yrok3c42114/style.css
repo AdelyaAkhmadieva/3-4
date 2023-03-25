@@ -1,0 +1,34 @@
+ul{
+    padding: 15px;
+    margin: 5px;
+    background: #b82e8f;
+    list-style: square;
+}
+
+ul li{
+    padding: 15px;
+    margin: 5px 15px;
+    background: #00ff00;
+}
+
+ ul li:hover{
+    background: red;
+}
+
+ol{
+    padding: 15px;
+    margin: 10px;
+    background: #c8ff00;
+    list-style: lower-roman;
+}
+
+ol li{
+    padding: 15px;
+    margin: 5px 15px;
+    background: #03d9ff;
+}
+
+ ol li:hover{
+   scale: 1.06;
+   background: #df9dcb;
+}
